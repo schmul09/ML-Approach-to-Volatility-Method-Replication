@@ -215,16 +215,3 @@ pip install -r requirements.txt
 ```
 
 ---
-
-## References
-
-- Corsi, F. (2009). A simple approximate long-memory model of realized
-  volatility. *Journal of Financial Econometrics*, 7(2), 174–196.
-- Christensen, K., Siggaard, M. & Veliyev, B. (2022). A machine learning
-  approach to volatility forecasting. *Journal of Financial Econometrics*.
-- Breiman, L. (2001). Random forests. *Machine Learning*, 45(1), 5–32.
-- Apley, D. W. & Zhu, J. (2020). Visualizing the effects of predictor
-  variables in black box supervised learning models. *Journal of the
-  Royal Statistical Society: Series B*, 82(4), 1059–1086.
-- Kingma, D. P. & Ba, J. (2014). Adam: A method for stochastic
-  optimization. arXiv:1412.6980.
